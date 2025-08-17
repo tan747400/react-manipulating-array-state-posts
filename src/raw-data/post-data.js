@@ -67,4 +67,6 @@ export const postData = [
       likes: 6,
     },
   ];
+
+  
   
